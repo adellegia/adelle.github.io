@@ -1,3 +1,1 @@
-theme: jekyll-theme-minimal
-name: Ma. Adelle Gia Arbo
-markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
